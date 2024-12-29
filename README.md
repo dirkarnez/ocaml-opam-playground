@@ -8,6 +8,7 @@ ocaml-opam-playground
 
 ### Opam
 - [opam - About opam](https://opam.ocaml.org)
+  - `opam install ocaml-lsp-server odoc ocamlformat utop`
 
 ### Native code compilation
 - [OCaml - Native-code compilation (ocamlopt)](https://ocaml.org/manual/5.0/native.html)
