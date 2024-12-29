@@ -5,6 +5,8 @@ ocaml-opam-playground
   - [Installing OCaml · OCaml Documentation](https://ocaml.org/docs/installing-ocaml)
   - [Install OCaml](https://ocaml.org/install#windows)
   - [OCaml on Windows · OCaml Documentation](https://ocaml.org/docs/ocaml-on-windows#other-installation-environments)
+### Opam
+- [opam - About opam](https://opam.ocaml.org)
 
 ### TODOs
 - [ ] Merge [dirkarnez/docker-ocaml-playground](https://github.com/dirkarnez/docker-ocaml-playground)
