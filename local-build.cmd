@@ -5,7 +5,7 @@ set "OPAM_SWITCH_PREFIX=%LOCALAPPDATA%\opam\default"
 :: Updated by package ocaml-base-compiler
 set "CAML_LD_LIBRARY_PATH=%LOCALAPPDATA%\opam\default\lib\stublibs"
 :: Updated by package ocaml
-set "CAML_LD_LIBRARY_PATH=C:/Users/19081126D.HH/AppData/Local/opam/default/lib/ocaml/stublibs;C:/Users/19081126D.HH/AppData/Local/opam/default/lib/ocaml"
+set "CAML_LD_LIBRARY_PATH=%LOCALAPPDATA%/opam/default/lib/ocaml/stublibs;%LOCALAPPDATA%/opam/default/lib/ocaml"
 :: Updated by package ocaml
 set "CAML_LD_LIBRARY_PATH=%LOCALAPPDATA%\opam\default\lib/stublibs;%CAML_LD_LIBRARY_PATH%"
 :: Updated by package ocaml
